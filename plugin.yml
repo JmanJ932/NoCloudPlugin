@@ -1,0 +1,5 @@
+name: NoCloudPlugin
+main: com.example.nocloud.NoCloudPlugin
+version: 1.0
+api-version: 1.12
+author: JmanJ129
